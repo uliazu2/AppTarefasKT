@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppTodoList</string>
+    <string name="app_label">Unisanta</string>
+    <string name="app_title">Minhas Tarefas</string>
+    <string name="label_pending">Pendentes</string>
+    <string name="label_completed">Concluídas</string>
+    <string name="section_tasks">— Todas as tarefas</string>
+    <string name="status_pending">Pendente</string>
+    <string name="status_completed">Concluída</string>
+    <string name="dialog_title">Nova Tarefa</string>
+    <string name="label_task_name">Nome da tarefa</string>
+    <string name="label_task_desc">Descrição</string>
+    <string name="hint_task_name">Ex: Estudar Kotlin…</string>
+    <string name="hint_task_desc">Descreva a tarefa…</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_complete">Concluir ✓</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="add_task">Adicionar tarefa</string>
+    <string name="task_added">Tarefa adicionada!</string>
+    <string name="task_completed">Tarefa concluída! 🎉</string>
+    <string name="task_deleted">Tarefa excluída.</string>
+    <string name="error_name_required">Digite o nome da tarefa</string>
+    <string name="error_desc_required">Digite a descrição da tarefa</string>
+    <string name="empty_state">Nenhuma tarefa ainda.\nToque em + para começar!</string>
+</resources>
